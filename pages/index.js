@@ -1,6 +1,6 @@
 function Home(){
   return <h1>
-    Nova frase
+    Nova frase 😀
   </h1>
 }
 
